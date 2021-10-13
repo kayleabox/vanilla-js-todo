@@ -19,6 +19,12 @@ Add files for application:
 ```
 touch index.html app.js styles.css README.md
 ```
+Update repo:
+```
+git add .
+git commit -m"add files for vanilla js todo app"
+git push 
+```
 
 
 ### Resources that might be helpful:
